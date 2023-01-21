@@ -1,0 +1,14 @@
+{
+  "name": "bowlinggame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.32.0"
+  }
+}
